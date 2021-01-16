@@ -6,3 +6,16 @@
 h2{
     font-family: 'Courier New', Courier, monospace;
 }
+#contenedor{
+    background-color: deepskyblue;
+}
+#subtiulo{
+    text-align: center;
+}
+#footer{
+    background-color: black;
+}
+#piePagina{
+    color: white;
+    text-align: center;
+}
