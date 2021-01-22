@@ -8,14 +8,16 @@ h2{
 }
 #contenedor{
     background-color: deepskyblue;
-}
-#subtiulo{
-    text-align: center;
+    display: flex; 
+    flex-wrap: wrap; 
+    min-height: 400px;
 }
 #footer{
     background-color: black;
+    display: flex;
+    flex-wrap: wrap; 
+    align-self: flex-end;
 }
 #piePagina{
     color: white;
-    text-align: center;
 }
